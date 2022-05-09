@@ -64,7 +64,7 @@ INSERT INTO album (nome_album, artista, ano_lancamento)
 VALUES ('Envious', 1, 1990),
        ('Exuberant', 1, 1993),
 	   ('Hallowed Steam', 2, 1995),
-       ('Incadescent', 3, 1998),
+       ('Incandescent', 3, 1998),
        ('Temporary Culture', 4, 2001),
        ('Library of liberty', 4, 2003),
        ('Chained Down', 5, 2007),
